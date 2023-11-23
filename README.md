@@ -1,5 +1,5 @@
 # themoviedb
-Movie listing app using Jetpack Compose and Tmdb api, showcasing Android best practices with Google's recommended architecture: Clean Architecture + MVVM + Repository + Offline support (Room) + Android Architecture Components + Retrofit2 + Hilt + Coil + Compose.
+Movie listing app using Jetpack Compose and [Tmdb api](https://www.themoviedb.org/), showcasing Android best practices with Google's recommended architecture: Clean Architecture + MVVM + Repository + Offline support (Room) + Android Architecture Components + Retrofit2 + Hilt + Coil + Compose.
 
 # Screenshot for the output
 ![Screenshot_20231123_142758.png](Screenshot_20231123_142758.png)
