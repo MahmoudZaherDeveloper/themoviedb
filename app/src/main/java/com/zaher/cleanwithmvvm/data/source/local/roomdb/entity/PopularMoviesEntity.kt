@@ -2,6 +2,7 @@ package com.zaher.cleanwithmvvm.data.source.local.roomdb.entity
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
+import com.zaher.cleanwithmvvm.domain.model.PopularMovies
 
 @Entity(tableName = PopularMoviesEntity.TABLE_NAME)
 class PopularMoviesEntity(

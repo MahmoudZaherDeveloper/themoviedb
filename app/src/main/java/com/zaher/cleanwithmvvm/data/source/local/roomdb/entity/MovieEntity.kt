@@ -1,10 +1,10 @@
 package com.zaher.cleanwithmvvm.data.source.local.roomdb.entity
 
 
-import android.graphics.Movie
 import androidx.room.ColumnInfo
 import androidx.room.Entity
 import androidx.room.PrimaryKey
+import com.zaher.cleanwithmvvm.domain.model.Movie
 
 @Entity(tableName = MovieEntity.TABLE_NAME)
 data class MovieEntity(

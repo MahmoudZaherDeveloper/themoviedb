@@ -2,6 +2,7 @@ package com.zaher.cleanwithmvvm.data.source.remote.dto
 
 import com.squareup.moshi.Json
 import com.squareup.moshi.JsonClass
+import com.zaher.cleanwithmvvm.data.source.local.roomdb.entity.MovieEntity
 
 @JsonClass(generateAdapter = true)
 data class MovieDto(

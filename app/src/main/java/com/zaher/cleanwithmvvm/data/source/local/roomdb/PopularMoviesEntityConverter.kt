@@ -1,11 +1,12 @@
 package com.zaher.cleanwithmvvm.data.source.local.roomdb
 
-import android.graphics.Movie
 import androidx.room.TypeConverter
 import com.squareup.moshi.Moshi
 import com.zaher.cleanwithmvvm.data.source.local.roomdb.entity.MovieEntity
 import com.squareup.moshi.Types
 import com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory
+import com.zaher.cleanwithmvvm.domain.model.Movie
+
 class PopularMoviesEntityConverter {
 
     @TypeConverter
